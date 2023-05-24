@@ -17,11 +17,9 @@ Key skills and experience:
 - ⭐ ReactJS 
 - ⭐ AngularJS 
 - ⭐ JavaScript 
-- ⭐ Bootstrap 
-- ⭐ Css3 
-- ⭐ Html5 
+- ⭐ Bootstrap and Css3 
 - ⭐ MySql 
 - ⭐ WordPress 
-- 📫 How to reach me: alecrz_16@hotmail.com
+- 📧 How to reach me: alecrz_16@hotmail.com
 
 
