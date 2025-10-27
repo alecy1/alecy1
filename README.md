@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 Key skills and experience:
 - ⭐ ReactJS 
-- ⭐ AngularJS 
+- ⭐ Angular 
 - ⭐ JavaScript 
 - ⭐ Bootstrap and Css3 
 - ⭐ MySql  
