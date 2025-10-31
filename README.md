@@ -19,6 +19,6 @@ Key skills and experience:
 - ⭐ JavaScript 
 - ⭐ Bootstrap and Css3 
 - ⭐ MySql  
-<!-- - 📧 How to reach me: alecrz_16@hotmail.com -->
+
 
 
