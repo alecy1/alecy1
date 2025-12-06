@@ -14,11 +14,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Key skills and experience:
-- ⭐ ReactJS 
-- ⭐ Angular 
-- ⭐ JavaScript 
-- ⭐ Bootstrap and Css3 
-- ⭐ MySql  
+
+⭐ JavaScript \
+⭐ Java \
+⭐ Php \
+⭐ ReactJS \
+⭐ Angular \
+⭐ CakePhp \
+⭐ Css3 \
+⭐ Bootstrap \
+⭐ Html5 \
+⭐ Mysql \
+⭐ Wordpress 
+
 
 
 
